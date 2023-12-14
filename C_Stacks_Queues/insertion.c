@@ -22,3 +22,9 @@ void push()
         stack[top] = element;
     }
 }
+
+int main()
+{
+    push();
+    return (0);
+}
