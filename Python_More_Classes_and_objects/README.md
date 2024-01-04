@@ -1,0 +1,1 @@
+Classes and objects are the two main aspects of object oriented programming. A class creates a new type where objects are instances of the class. Variables that belong to an object or class are referred to as fields. Objects can also have functionality by using functions that belong to a class. Such functions are called methods of the class. 
