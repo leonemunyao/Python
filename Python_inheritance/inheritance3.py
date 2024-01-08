@@ -32,7 +32,7 @@ class Employee(Person):  # Employee inherits from Person
         return True
     
 # Driver code
-emp = Person("John Doe", 123)
+emp = Person("Google Microsoft", 123)
 print(emp.get_name(), emp.get_id(), emp.isEmployee()) # Output: John Doe
 
 emp = Employee("Software Engineer Leone", 124)
