@@ -1,0 +1,2 @@
+A hash function is a function that can be used to map data of arbitrary size to fixed size values. The value returned by a hash function is
+called hash value, hash code, digest or simply hashes. 

@@ -1,0 +1,7 @@
+Object Oriented Programming
+
+In all the programs we have wrote till now, we have designed our programs around funtions i.e blocks of statements which manipulate
+data. This is called procedure-oriented programming. There is another way to organizing your program which is to combine data and
+functionality and wrap inside something called an object. This is called the object oriented programming paradigm. 
+
+Classes and Objects are the two main aspects of object oriented programming. A class creates a new type where objects are instances of the class. Objects can store data using odinary variables that belong to the object. Variables that belong to an object 
